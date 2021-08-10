@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Eduardo9188
-- 👀 I’m interested in  programação
-- 🌱 I’m currently learning  programação 
-- 💞️ I’m looking to collaborate on  projetos 
-- 📫 How to reach me,me mande um email(dududequadros090625@gmail.com)
+- 👀 I’m interested in  programming
+- 🌱 I’m currently learning  programming
+- 💞️ I’m looking to collaborate on  projects
+- 📫 How to reach me,send me an email(dududequadros090625@gmail.com)
 
 
 <!---
